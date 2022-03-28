@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! I'm Hernán Garcialoredo 👋👨🏻‍💻
 
-<!--
-**h92web/h92web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My passions are research new technologies and learn all about how to resolve any problem.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of knowledge:
+  ● Design of responsive websites using HTML5, CSS3, and JavaScript, using libraries like
+  jQuery and frameworks like Bootstrap.
+  ● Basic knowledge of backend application development in PHP 7 with MySQL database
+  management queries.
+  ● Hosting management tasks and domain registration for business and personal brands.
+  ● Terminal handling in GNU/Linux with basic BASH commands.
+  ● Installation and repair of Windows and GNU/Linux operating systems, process
+  management.
+  ● Basic knowledge in Python 3, node.js and React developing small applications to learn.
+  
+  Links:
+    https://www.h92web.com.ar
+    https://www.linkedin.com/in/hernangarcialoredo/
+    https://es.stackoverflow.com/users/277615/h92web

@@ -1,19 +1,14 @@
-# Hi! I'm Hernán Garcialoredo 👋👨🏻‍💻
+Fullstack Developer with hands-on experience building and modernizing scalable web applications
+in production environments. Strong expertise in React, TypeScript and REST API integration,
+complemented by backend development using Node.js and Python (Django). Experienced in REST
+API design, containerized deployments (Docker), CI/CD workflows and AI-supported data
+processing pipelines. Focused on clean architecture, performance optimization and maintainable
+code for high-impact technical solutions.
 
-💻 My passions are research new technologies and learn all about how to resolve any problem.
+TECHNICAL SKILLS
 
-## Areas of knowledge:
-* Design of responsive websites using HTML5, CSS3, and JavaScript, using libraries like
-jQuery and frameworks like Bootstrap.
-* Basic knowledge of backend application development in PHP 7 with MySQL database
-management queries.
-* Hosting management tasks and domain registration for business and personal brands.
-* Terminal handling in GNU/Linux with basic BASH commands.
-* Installation and repair of Windows and GNU/Linux operating systems, process
-management.
-* Basic knowledge in Python 3, node.js and React developing small applications to learn.
-  
-## Links:
-    https://www.h92web.com.ar
-    https://www.linkedin.com/in/hernangarcialoredo/
-    https://es.stackoverflow.com/users/277615/h92web
+Frontend: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
+Backend: Node.js, Python (Django), PHP, RESTful API Design
+DevOps & Tooling: Docker, CI/CD Pipelines, Git, Bash Scripting
+Testing: Cypress, Frontend Testing Strategies
+AI & Data: Image Classification Workflows, Data Preprocessing, Model Integration
